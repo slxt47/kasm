@@ -10,7 +10,7 @@ This repository provides a simple setup for running **Kasm Workspaces** on a sta
 
 Once running, access your workspace at:
 
-https:/Server-IP:443
+https://Server-IP:443
 
 
 ---
