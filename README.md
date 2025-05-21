@@ -10,7 +10,7 @@ This repository provides a simple setup for running **Kasm Workspaces** on a sta
 
 Once running, access your workspace at:
 
-https:/<Server-IP>:443
+https:/Server-IP:443
 
 
 ---
@@ -30,7 +30,7 @@ sudo systemctl enable --now docker
 ````
 
 ### docker-compose.yml
-
+```
 version: '3'
 
 services:
@@ -45,4 +45,4 @@ services:
 
 volumes:
   kasm_data:
-
+```
